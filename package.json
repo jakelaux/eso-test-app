@@ -1,0 +1,22 @@
+{
+    "name": "eso-test-app",
+    "version": "0.0.1",
+    "description": "Test application created for my PDI to test out the Washington release of the SN SDK",
+    "license": "UNLICENSED",
+    "contributors": [],
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk deploy"
+    },
+    "now": {
+        "scope": "x_71146_eso_test",
+        "scopeId": "aa68391447108210b92d97da116d4302",
+        "moduleDir": "src"
+    },
+    "devDependencies": {
+        "@servicenow/glide": "25.0.1",
+        "eslint": "8.50.0",
+        "eslint-plugin-n":"16.2.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "*"
+    }
+}

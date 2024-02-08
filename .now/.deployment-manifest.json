@@ -1,0 +1,41 @@
+{
+  "files": [
+    {
+      "status": "DEPLOYED",
+      "current_hash": "1c1a7dd6206218b3e59f28a15a2e7be7",
+      "path": "dictionary/x_71146_eso_test_to_do.xml",
+      "deploy_hash": "1c1a7dd6206218b3e59f28a15a2e7be7",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "fe37dca6348e4a74b40c1feff44f39f6",
+      "path": "sys_app_aa68391447108210b92d97da116d4302.xml",
+      "deploy_hash": "fe37dca6348e4a74b40c1feff44f39f6",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "ee02660c81bf784e99b6d8030b0ef506",
+      "path": "update/sys_module_package_json.xml",
+      "deploy_hash": "ee02660c81bf784e99b6d8030b0ef506",
+      "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/package.json"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "52618d4b745b0a9fd65ae34b280737ec",
+      "path": "update/sys_module_src_myfunction_js.xml",
+      "deploy_hash": "52618d4b745b0a9fd65ae34b280737ec",
+      "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/src/myfunction.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "27775b935ef2fab5fe0deca7873a9c56",
+      "path": "update/sys_script_b9afdb31940e4d88bf4d0fadd4c187fe.xml",
+      "deploy_hash": "27775b935ef2fab5fe0deca7873a9c56",
+      "modulePath": ""
+    }
+  ],
+  "packageJsonHash": "796e040ee220098a56acc975615d29c0",
+  "register_scope": false
+}
