@@ -16,16 +16,16 @@
     },
     {
       "status": "DEPLOYED",
-      "current_hash": "ee02660c81bf784e99b6d8030b0ef506",
+      "current_hash": "b8c52f7d559a03f4a0c38967e482e13b",
       "path": "update/sys_module_package_json.xml",
-      "deploy_hash": "ee02660c81bf784e99b6d8030b0ef506",
+      "deploy_hash": "b8c52f7d559a03f4a0c38967e482e13b",
       "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/package.json"
     },
     {
       "status": "DEPLOYED",
-      "current_hash": "52618d4b745b0a9fd65ae34b280737ec",
+      "current_hash": "95e8e025972937f1049c9d95ee3d225e",
       "path": "update/sys_module_src_myfunction_js.xml",
-      "deploy_hash": "52618d4b745b0a9fd65ae34b280737ec",
+      "deploy_hash": "95e8e025972937f1049c9d95ee3d225e",
       "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/src/myfunction.js"
     },
     {

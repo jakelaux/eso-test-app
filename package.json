@@ -1,9 +1,7 @@
 {
     "name": "eso-test-app",
     "version": "0.0.1",
-    "exports":{
-        ".":"./src/myfunction.js"
-    },
+    "exports": "./src/myfunction.js",
     "description": "Test application created for my PDI to test out the Washington release of the SN SDK",
     "license": "UNLICENSED",
     "contributors": [],
