@@ -4,6 +4,6 @@ import { gs } from '@servicenow/glide'
     gs.addInfoMessage(`Record updated. Old Status: ${oldStatus}`)
     gs.addInfoMessage(`New Status: ${newStatus}`)
 }*/
-export const testFunction = function () {
-    gs.addInfoMessage('testing123 > coming from our sdk test');
+export const testFunction = function (testValue) {
+    gs.addInfoMessage(`testing123 > coming from our sdk test ${testValue}`)
 }
