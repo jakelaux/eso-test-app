@@ -16,9 +16,9 @@
     },
     {
       "status": "DEPLOYED",
-      "current_hash": "b8c52f7d559a03f4a0c38967e482e13b",
+      "current_hash": "98e2f77393f2cbda0528e28649af2473",
       "path": "update/sys_module_package_json.xml",
-      "deploy_hash": "b8c52f7d559a03f4a0c38967e482e13b",
+      "deploy_hash": "98e2f77393f2cbda0528e28649af2473",
       "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/package.json"
     },
     {
