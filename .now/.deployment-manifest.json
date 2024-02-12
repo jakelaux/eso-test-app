@@ -23,9 +23,9 @@
     },
     {
       "status": "DEPLOYED",
-      "current_hash": "6e51659c2073339a8e62c3f029d1375a",
+      "current_hash": "62d7aef110a454ac6ecf3e6949c9ff1d",
       "path": "update/sys_module_src_myfunction_js.xml",
-      "deploy_hash": "6e51659c2073339a8e62c3f029d1375a",
+      "deploy_hash": "62d7aef110a454ac6ecf3e6949c9ff1d",
       "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/src/myfunction.js"
     },
     {

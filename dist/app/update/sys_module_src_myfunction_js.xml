@@ -16,8 +16,8 @@ export const testFunction = function (testValue, dateValue) {
     var b = a.clone().add(1, 'week'); 
     a.format();
     b.format();
-    var c = moment(dateValue);
-    c.format()
+    var c = moment(dateValue).isValid();
+//    c.format()
     gs.addInfoMessage(`testing123 > coming from our sdk test ${ testValue } >> and now here's the date value from the todo ${ dateValue } and the date value after moment format ${ c } >> value of date a ${ a } -- value of date b (should be a week later) ${ b }`)
 }]]></content>
   </sys_module>
