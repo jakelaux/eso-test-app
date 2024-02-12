@@ -15,9 +15,12 @@
         "moduleDir": "src"
     },
     "devDependencies": {
+        "@servicenow/eslint-plugin-sdk-app-plugin": "*",
         "@servicenow/glide": "25.0.1",
         "eslint": "8.50.0",
-        "eslint-plugin-n":"16.2.0",
-        "@servicenow/eslint-plugin-sdk-app-plugin": "*"
+        "eslint-plugin-n": "16.2.0"
+    },
+    "dependencies": {
+        "moment": "^2.30.1"
     }
 }
