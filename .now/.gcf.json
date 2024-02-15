@@ -3,6 +3,16 @@
     "last_deploy_to_deploy_time": "1707762851561"
   },
   "deploy.count": {
-    "total_deploy_count": 26
+    "total_deploy_count": 26,
+    "build_count": 2
+  },
+  "deploy.file": {
+    "module_file_count": 0,
+    "metadata_file_count": 3,
+    "modified_file_count": 11
+  },
+  "deploy.timing.cli": {
+    "first_build_to_deploy_time": "1708024170807",
+    "last_build_to_deploy_time": "1708024263706"
   }
 }

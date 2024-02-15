@@ -8,35 +8,35 @@
       "modulePath": ""
     },
     {
-      "status": "DEPLOYED",
+      "status": "NOT DEPLOYED",
       "current_hash": "fe37dca6348e4a74b40c1feff44f39f6",
       "path": "sys_app_aa68391447108210b92d97da116d4302.xml",
       "deploy_hash": "fe37dca6348e4a74b40c1feff44f39f6",
       "modulePath": ""
     },
     {
-      "status": "DEPLOYED",
+      "status": "MARKED FOR REMOVAL",
       "current_hash": "eee0aa8a7fad1d2a609bf75c0a0d2cb3",
       "path": "update/sys_module_package_json.xml",
       "deploy_hash": "eee0aa8a7fad1d2a609bf75c0a0d2cb3",
       "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/package.json"
     },
     {
-      "status": "DEPLOYED",
+      "status": "MARKED FOR REMOVAL",
       "current_hash": "62d7aef110a454ac6ecf3e6949c9ff1d",
       "path": "update/sys_module_src_myfunction_js.xml",
       "deploy_hash": "62d7aef110a454ac6ecf3e6949c9ff1d",
       "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/src/myfunction.js"
     },
     {
-      "status": "DEPLOYED",
-      "current_hash": "27775b935ef2fab5fe0deca7873a9c56",
+      "status": "NOT DEPLOYED",
+      "current_hash": "35826c1fc77acef3ffd6c37ae20d1ff6",
       "path": "update/sys_script_b9afdb31940e4d88bf4d0fadd4c187fe.xml",
       "deploy_hash": "27775b935ef2fab5fe0deca7873a9c56",
       "modulePath": ""
     },
     {
-      "status": "DEPLOYED",
+      "status": "MARKED FOR REMOVAL",
       "current_hash": "66eae6869581f874e30254c14beef210",
       "path": "update/sys_module_dependency_console_1_0_0.xml",
       "deploy_hash": "66eae6869581f874e30254c14beef210",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "status": "DEPLOYED",
+      "status": "MARKED FOR REMOVAL",
       "current_hash": "f62ec9087a062b89d4803cec34107c7c",
       "path": "update/sys_module_dependency_moment_2_30_1.xml",
       "deploy_hash": "f62ec9087a062b89d4803cec34107c7c",
@@ -54,8 +54,22 @@
         "x_71146_eso_test/moment/2.30.1/package.json",
         "x_71146_eso_test/moment/2.30.1/moment.js"
       ]
+    },
+    {
+      "status": "NOT DEPLOYED",
+      "current_hash": "f4920b769e1a4fb307f2961f180d4074",
+      "path": "author_elective_update/sys_module_package_json.xml",
+      "deploy_hash": "",
+      "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/package.json"
+    },
+    {
+      "status": "NOT DEPLOYED",
+      "current_hash": "e28d629cea69a346dbd50f36b25ec4c9",
+      "path": "author_elective_update/sys_module_src_myfunction_js.xml",
+      "deploy_hash": "",
+      "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/src/myfunction.js"
     }
   ],
-  "packageJsonHash": "796e040ee220098a56acc975615d29c0",
+  "packageJsonHash": "ce54343251f1d4255ded449944398bba",
   "register_scope": false
 }

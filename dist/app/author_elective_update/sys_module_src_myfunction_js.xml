@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<record_update>
+  <sys_module action="DELETE">
+    <sys_scope>aa68391447108210b92d97da116d4302</sys_scope>
+    <path>x_71146_eso_test/eso-test-app/0.0.1/src/myfunction.js</path>
+  </sys_module>
+</record_update>
