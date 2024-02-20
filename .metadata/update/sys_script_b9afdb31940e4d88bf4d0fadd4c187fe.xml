@@ -2,15 +2,15 @@
 <unload>
   <sys_script action="INSERT_OR_UPDATE">
     <action_delete>false</action_delete>
-    <action_insert>false</action_insert>
+    <action_insert>true</action_insert>
     <action_update>true</action_update>
     <active>true</active>
     <collection>x_71146_eso_test_to_do</collection>
     <name>LogItemChange</name>
     <order>100</order>
     <script><![CDATA[
-const { testFunction } = require('./dist/modules/myfunction.js')
-testFunction(current, previous)
+const { showUpdate } = require('./dist/modules/myfunction.js')
+showUpdate(current, previous)
 ]]></script>
     <sys_id>b9afdb31940e4d88bf4d0fadd4c187fe</sys_id>
     <sys_scope display_value="x_71146_eso_test">aa68391447108210b92d97da116d4302</sys_scope>
