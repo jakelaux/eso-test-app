@@ -30,33 +30,6 @@
     },
     {
       "status": "DEPLOYED",
-      "current_hash": "e28d629cea69a346dbd50f36b25ec4c9",
-      "path": "author_elective_update/sys_module_src_myfunction_js.xml",
-      "deploy_hash": "e28d629cea69a346dbd50f36b25ec4c9",
-      "modulePath": "x_71146_eso_test/eso-test-app/0.0.1/src/myfunction.js"
-    },
-    {
-      "status": "DEPLOYED",
-      "current_hash": "a6c9f02ef35213a6e1863c147c01f24b",
-      "path": "author_elective_update/sys_module_dependency_x_71146_eso_test_console_1_0_0.xml",
-      "deploy_hash": "a6c9f02ef35213a6e1863c147c01f24b",
-      "modulePath": [
-        "x_71146_eso_test/console/1.0.0/package.json",
-        "x_71146_eso_test/console/1.0.0/console.js"
-      ]
-    },
-    {
-      "status": "DEPLOYED",
-      "current_hash": "59144dd47feccef4241f79042c87eff8",
-      "path": "author_elective_update/sys_module_dependency_x_71146_eso_test_moment_2_30_1.xml",
-      "deploy_hash": "59144dd47feccef4241f79042c87eff8",
-      "modulePath": [
-        "x_71146_eso_test/moment/2.30.1/package.json",
-        "x_71146_eso_test/moment/2.30.1/moment.js"
-      ]
-    },
-    {
-      "status": "DEPLOYED",
       "current_hash": "4072a678a93b8d7922271fd3a4cd0a55",
       "path": "update/sys_module_dist_modules_myfunction_js.xml",
       "deploy_hash": "4072a678a93b8d7922271fd3a4cd0a55",
