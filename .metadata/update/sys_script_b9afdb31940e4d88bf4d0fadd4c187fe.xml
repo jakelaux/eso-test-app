@@ -8,9 +8,9 @@
     <collection>x_71146_eso_test_to_do</collection>
     <name>LogItemChange</name>
     <order>100</order>
-    <script><![CDATA[	
-    const { testFunction } = require('./dist/modules/myfunction.js')
-	  showtestFunction(current, previous)
+    <script><![CDATA[
+const { testFunction } = require('./dist/modules/myfunction.js')
+testFunction(current, previous)
 ]]></script>
     <sys_id>b9afdb31940e4d88bf4d0fadd4c187fe</sys_id>
     <sys_scope display_value="x_71146_eso_test">aa68391447108210b92d97da116d4302</sys_scope>
